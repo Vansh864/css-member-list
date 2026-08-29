@@ -256,89 +256,9 @@
       "members": {
         "2025-26": [
           {
-            "name": "Shahadat Ali",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757531582/IMG_7939_-_Shahadat_hjs0ak.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/shahadat-ali-aa04a728a"
-            }
-          },
-          {
-            "name": "Bikash Bhattacharjee",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757531658/WhatsApp_Image_2025-08-31_at_22.57.20_5bab18f3_-_BIKASH_BHATTACHARJEE_qg28ln.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/derivatives__/",
-              "facebook": "https://www.facebook.com/bhatta.359/",
-              "linkedin": "https://www.linkedin.com/in/bikash-bhattacharjee-749211287/"
-            }
-          },
-          {
-            "name": "Shashank Kukreti",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757531748/profilephoto_-_SHASHANK_KUKRETI_wpn8qw.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/kukretishashank_/",
-              "facebook": "https://www.facebook.com/shashank.kukreti.96",
-              "linkedin": "https://www.linkedin.com/in/shashank-kukreti-60940a2a4/"
-            }
-          },
-          {
-            "name": "Alvis Khan",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757531875/ALVIS_KHAN_-_ALVIS_KHAN_fpifot.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/lvis.khn/",
-              "facebook": "https://www.facebook.com/lvis.khn",
-              "linkedin": "https://www.linkedin.com/in/alviskhan"
-            }
-          },
-          {
-            "name": "Rini Nath",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757531984/IMG_20250831_112846_-_RINI_NATH_s90cai.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/ri_niiiiii/",
-              "facebook": "https://www.facebook.com/profile.php?id=RiniNath",
-              "linkedin": "https://www.linkedin.com/in/rini-nath-19655a327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
-            "name": "Madhav Preeth",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532052/WhatsApp_Image_2025-08-31_at_8.04.41_PM_-_MADHAV_PREETH_mt9nzq.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/madhav-preeth-153398334/"
-            }
-          },
-          {
-            "name": "Amir Hussain",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532134/IMG_20250831_214512_-_Amir_Hussain_qtjacx.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/amirhussain_17/",
-              "facebook": "https://www.facebook.com/share/15wyGokfA4/",
-              "linkedin": "https://www.linkedin.com/in/amirhussain-17-m"
-            }
-          },
-          {
-            "name": "Mittapally Sai Adarsh",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532218/IMG_20250831_230955_-_MITTAPALLY_SAI_ADARSH_v5invc.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/saiadarshmittapally?igsh=NTVveTJjcjY2dDFh",
-              "facebook": "https://www.facebook.com/share/1AW2VeTZYH/",
-              "linkedin": "https://www.linkedin.com/in/sai-adarsh-mittapally-523b98325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
             "name": "Raunak Bhattacharjee",
             "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532301/Screenshot_20250601_161911_-_RAUNAK_BHATTACHARJEE_ipxcsn.webp",
-            "role": "Junior Member",
+            "role": "Head",
             "social": {
               "instagram": "https://www.instagram.com/raw_kun_/",
               "facebook": "https://www.facebook.com/share/1JgJtTYUz8/",
@@ -346,25 +266,75 @@
             }
           },
           {
-            "name": "Piyush Saha",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532558/IMG_20250831_233659_-_PIYUSH_SAHA_ikgv9b.webp",
-            "role": "Junior Member",
+            "name": "Mittapally Sai Adarsh",
+            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532218/IMG_20250831_230955_-_MITTAPALLY_SAI_ADARSH_v5invc.webp",
+            "role": "Head",
             "social": {
-              "instagram": "https://www.instagram.com/p1yu6h_/",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"
+              "instagram": "https://www.instagram.com/saiadarshmittapally?igsh=NTVveTJjcjY2dDFh",
+              "facebook": "https://www.facebook.com/share/1AW2VeTZYH/",
+              "linkedin": "https://www.linkedin.com/in/sai-adarsh-mittapally-523b98325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             }
           },
           {
-            "name": "Topon Konwar",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757532752/IMG_20250825_014010_012_-_TOPON_KONWAR_1_iz88xv.webp",
+            "name": "Subham Prasad ",
+            "photo": "https://res.cloudinary.com/nqjzoeu6/image/upload/v1787989183/IMG_20260811_221928965_HDR_PORTRAIT_-_SUBHAM_PRASAD.jpg",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/toponkonwarr/",
-              "facebook": "https://www.facebook.com/profile.php?id=ToponKonwar",
-              "linkedin": "https://www.linkedin.com/in/topon-konwar-537067204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "instagram": "https://www.instagram.com/what_your_signs?igsi=MXg4ZTVsNjRleTZubA==",
+              "facebook": "https://www.facebook.com/share/1DcXWQjCs2/",
+              "linkedin": "https://www.linkedin.com/in/subham-prasad-968bbb209?utm_source=share_via&utm_content=profile&utm_medium=member_android"
             }
-          }
+          },
+          {
+            "name": "Jarpula Vishnu Vardhan ",
+            "photo": "https://res.cloudinary.com/nqjzoeu6/image/upload/v1787989393/IMG_6296_-_JARPULA_VISHNU_VARDHAN.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/vishnu_official_63?igsi=MXJmZDVxZXVhM2dnMA==",
+              "facebook": "https://www.facebook.com/share/18PkAPegZd/",
+              "linkedin": "https://www.linkedin.com/in/vishnu-vardhan-jarpula-540718423?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+          },
+          {
+            "name": "Abhilash Singh",
+            "photo": "https://res.cloudinary.com/nqjzoeu6/image/upload/v1787989522/linkdinprofile_-_ABHILASH_SINGH.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/abhilashsingh031?igsh=NXI3cjJwbnBoazFx",
+              "facebook": "https://www.facebook.com/people/Abhilash-Singh/pfbid0CpF5vDrt34rpMLHruzkqXvAz4H3bhNyaYhLAgnVUUapjfEobCVkzN2Uq2t6owXWMl/?rdid=kSOp7ROtrrUxFBaW&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F197CPgJu9N%2F",
+              "linkedin": "https://www.linkedin.com/in/abhilash-singh-430377369?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+          },
+          {
+            "name": "Parash Agarwala ",
+            "photo": "https://res.cloudinary.com/nqjzoeu6/image/upload/v1787989684/IMG_5465_-_Parash_Agarwal.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/parash197?igsi=MWdiZm9sNnNmZHowcg==",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/parash-agarwala-058981388?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+          },
+          {
+            "name": "Akshara Singh",
+            "photo": "https://res.cloudinary.com/nqjzoeu6/image/upload/v1787992586/IMG-20260728-WA0086.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/akshara._singh._?igsi=M3Fpdm5hcDdmdndu",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/akshara-singh-063536365?utm_source=share_via&utm"
+            }
+          },
+          {
+            "name": "Rituraj Singh",
+            "photo": "",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "",
+              "facebook": "",
+              "linkedin": ""
+            }
+          },
         ]
       }
     },
