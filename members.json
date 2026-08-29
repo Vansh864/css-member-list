@@ -494,31 +494,11 @@
     "lit": {
       "name": "Literary Wing",
       "members": {
-        "2025-26": [
-          {
-            "name": "Sazzad Hossain Rafi",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757533041/IMG_2546_-_Sazzad_Hossain_Rafi_cwuuec.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/rafi_badsha_akbar-rafi/",
-              "facebook": "https://www.facebook.com/share/1CHTgDhZB3/?mibextid=wwXIfr",
-              "linkedin": "https://www.linkedin.com/in/badsha-akbar-rafi-37201828b"
-            }
-          },
-          {
-            "name": "Bavanam Divya",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757533195/IMG_20250831_225807_-_BAVANAM_DIVYA_mzk48z.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/bavanam-divya"
-            }
-          },
+        "2026-27": [
           {
             "name": "Alindo Sarker Duranto",
             "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757533341/IMG_0244_-_ALINDO_SARKER_DURANTO_lu121c.webp",
-            "role": "Junior Member",
+            "role": "Head",
             "social": {
               "instagram": "https://www.instagram.com/alindo_sarker/",
               "facebook": "https://www.facebook.com/profile.php?id=AlindoSarkerDuranto",
@@ -526,13 +506,43 @@
             }
           },
           {
-            "name": "Abir Paul",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757533610/IMG_0181_-_ABIR_PAUL_honawj.webp",
+            "name": "Prachurja Rang Sarathi",
+            "photo": "",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/__abir_pl_?igsh=NGRjcjJreXZiaWE5&utm_source=qr",
-              "facebook": "https://www.facebook.com/abir.paul.77736?mibextid=wwXIfr",
-              "linkedin": "https://www.linkedin.com/in/abir-paul"
+              "instagram": "",
+              "facebook": "",
+              "linkedin": ""
+            }
+          },
+          {
+            "name": "Ruchi Berni Bhuyan",
+            "photo": "https://res.cloudinary.com/iieag8u8/image/upload/v1787985991/IMG-20251005-WA0240_-_RUCHI_BERNI_BHUYAN_36.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/_ruchi.music?igsi=OTJhNGpseWF5ZW11",
+              "facebook": "https://www.facebook.com/profile.php?id=61581509441695",
+              "linkedin": "https://www.linkedin.com/in/ruchi-berni-bhuyan"
+            }
+          },
+          {
+            "name": "Saswaty Sarkar",
+            "photo": "https://res.cloudinary.com/iieag8u8/image/upload/v1787986209/file_000000009d9082089eb8634c4d7e9afb_-_SASWATY_SARKAR.png",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/saswaty-sarkar-7161753ab?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+          },
+          {
+            "name": "Zamima Tanima Barik",
+            "photo": "",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "",
+              "facebook": "",
+              "linkedin": ""
             }
           }
         ]
