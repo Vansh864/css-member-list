@@ -179,7 +179,7 @@
             }
           },
           {
-            "name": "Vansh Dokania ",
+            "name": "Vansh Dokania",
             "photo": "https://res.cloudinary.com/ouxlbies/image/upload/v1787942482/1787482801485_-_VANSH_DOKANIA.png",
             "role": "Junior Member",
             "social": {
@@ -189,7 +189,7 @@
             }
           },
           {
-            "name": "Adya Vidyarthi ",
+            "name": "Adya Vidyarthi",
             "photo": "https://res.cloudinary.com/ouxlbies/image/upload/v1787942600/IMG-20260822-WA0051_-_ADYA_VIDYARTHI_017.jpg",
             "role": "Junior Member",
             "social": {
@@ -219,7 +219,7 @@
             }
           },
           {
-            "name": "Raghav Saraogi ",
+            "name": "Raghav Saraogi",
             "photo": "https://res.cloudinary.com/ouxlbies/image/upload/v1787942944/IMG-20260808-WA0065_3_-_RAGHAV_SARAOGI.jpg",
             "role": "Junior Member",
             "social": {
@@ -239,7 +239,7 @@
             }
           },
           {
-            "name": "Akshith Reddy ",
+            "name": "Akshith Reddy",
             "photo": "https://res.cloudinary.com/ouxlbies/image/upload/v1787943411/IMG-20260822-WA0014_-_LANKALA_AKSHITH_REDDY.jpg",
             "role": "Junior Member",
             "social": {
@@ -334,7 +334,7 @@
               "facebook": "",
               "linkedin": ""
             }
-          },
+          }
         ]
       }
     },
