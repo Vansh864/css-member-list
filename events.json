@@ -47,7 +47,118 @@
       "name": "CSS Olympics",
       "year": "2025-26",
       "images": [
-
+        {
+          "game": "athletics",
+          "images": [
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976215/CssOlympics.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976214/CssOlympics-7.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976213/CssOlympics-6.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976212/CssOlympics-5.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976211/CssOlympics-4.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976210/CssOlympics-3.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976209/CssOlympics-2.jpg"
+          ]
+        },
+        {
+          "game": "badminton",
+          "images": [
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976257/IMG_9744.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976256/IMG_9738.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976255/IMG_9736.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976254/IMG_9725.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976253/IMG_9724.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976252/IMG_9657.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976252/IMG_9673.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976250/IMG_9639.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976250/IMG_9652.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976249/IMG_9634.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976248/IMG_9580.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976244/IMG_9578.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976232/IMG_9573.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976231/IMG_9573-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976230/IMG_9557.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976229/IMG_9542.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976228/IMG_9539.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976227/IMG_9519.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976226/IMG_9519-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976225/IMG_9512.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976224/9.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976223/8.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976223/7.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976222/6.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976221/5.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976220/4.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976219/3.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976218/2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976217/10.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976216/1.jpg"
+          ]
+        },
+        {
+          "game": "inaugration",
+          "images": [
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976271/IMG_9350.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976270/IMG_9349.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976269/IMG_9338.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976268/IMG_9320.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976267/IMG_9311.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976266/IMG_9300.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976265/IMG_9276.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976264/IMG_9256.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976264/IMG_9264.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976263/IMG_9250.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976262/IMG_9243.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976261/IMG_9236.jpg"
+          ]
+        },
+        {
+          "game": "futsal",
+          "images": [
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976260/IMG_9400.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976259/IMG_9375.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976258/IMG_9369.jpg"
+          ]
+        },
+        {
+          "game": "table tennis",
+          "images": [
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976399/IMG_0873-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976398/IMG_0856-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976397/IMG_0788-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976396/IMG_0770-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976395/IMG_0719-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976394/IMG_0702-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976393/IMG_0652-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976392/IMG_0632-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976389/IMG_0439-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976388/IMG_0425-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976387/IMG_0401-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976325/IMG_0391-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976323/IMG_0361-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976311/IMG_0356-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976293/IMG_0349-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976290/IMG_0343-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976289/IMG_0261-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976288/IMG_0246.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976287/IMG_0147-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976286/IMG_0085-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976285/IMG_0001-Enhanced-NR.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976284/IMG_9945-Enhanced-NR-2-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976283/IMG_9933-Enhanced-NR-1-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976282/IMG_8293-Enhanced-NR-14-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976281/IMG_8292-Enhanced-NR-13-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976280/IMG_8279-Enhanced-NR-2-12-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976279/IMG_0887-Enhanced-NR-11-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976278/IMG_0853-10-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976277/IMG_0788-Enhanced-NR-9-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976276/IMG_0779-Enhanced-NR-8-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976275/IMG_0768-7-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976274/IMG_0726-6-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976273/IMG_0661-Enhanced-NR-5-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976273/IMG_0210-Enhanced-NR-4-2.jpg",
+            "https://res.cloudinary.com/goznga4i/image/upload/v1787976272/IMG_0196-Enhanced-NR-3-2.jpg"
+          ]
+        }
       ]
     },
     {
