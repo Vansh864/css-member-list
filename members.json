@@ -673,41 +673,11 @@
     "design": {
       "name": "Design Wing",
       "members": {
-        "2025-26": [
-          {
-            "name": "Anuj Das",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084609/WhatsApp_Image_2025-09-01_at_00.05.18_d7afc969_-_ANUJ_DAS_d4l2fo.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/anujxdas?igsh=NDB1dWw3bWo3bmx4",
-              "facebook": "https://www.facebook.com/profile.php?id=61550848372863",
-              "linkedin": "https://www.linkedin.com/in/anujdas27/"
-            }
-          },
-          {
-            "name": "Bhargab Baruah",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084815/IMG-20250517-WA0257_-_BHARGAB_BARUAH_n9jp6u.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/ayanbaruah/",
-              "facebook": "https://www.facebook.com/share/1C3rB8uepL/",
-              "linkedin": "https://www.linkedin.com/in/baruahbhargab"
-            }
-          },
-          {
-            "name": "Arko Saha",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084946/472063484_3684458421700981_6527360543110804581_n_-_ARKO_SAHA_laggg4.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/_arko.saha/",
-              "facebook": "https://www.facebook.com/arko.saha.31/",
-              "linkedin": "https://www.linkedin.com/in/arko-saha-aa315420a/"
-            }
-          },
+        "2026-27": [
           {
             "name": "Bidisha Kakoti",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757085076/IMG-20250519-WA0060_-_BIDISHA_KAKOTI_t7phgz.webp",
-            "role": "Junior Member",
+            "photo": "https://res.cloudinary.com/lhij2e2e/image/upload/v1787942141/IMG-20260608-WA0230_-_BIDISHA_KAKOTI.jpg",
+            "role": "Head",
             "social": {
               "instagram": "https://www.instagram.com/bi__diiishaa?igsh=MW5hcWZzanZxZGwxZQ==",
               "facebook": "https://www.facebook.com/share/1DE9qHNtnz/",
@@ -715,43 +685,33 @@
             }
           },
           {
-            "name": "Shreya Markam",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757085269/a7f9a17f-e3e0-43ec-ad7a-9779835d638f_-_SHREYA_MARKAM_u3cjpn.webp",
-            "role": "Junior Member",
+              "name": "Arko Saha",
+            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084946/472063484_3684458421700981_6527360543110804581_n_-_ARKO_SAHA_laggg4.webp",
+            "role": "Head",
             "social": {
-              "instagram": "https://www.instagram.com/_shreyamarkam?igsh=ZHBjZHZtMmd1YmYx",
-              "facebook": "https://www.facebook.com/share/16m7qZzoat/?mibextid=wwXIfr",
-              "linkedin": "https://www.linkedin.com/in/shreya-markam-343416316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+              "instagram": "https://www.instagram.com/_arko.saha/",
+              "facebook": "https://www.facebook.com/arko.saha.31/",
+              "linkedin": "https://www.linkedin.com/in/arko-saha-aa315420a/"
             }
           },
           {
-            "name": "Binit Chanda",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757085423/WhatsApp_Image_2025-08-31_at_23.21.25_c9205039_-_BINIT_CHANDA_blm2tx.webp",
+            "name": "Sraza Bose Prome",
+            "photo": "https://res.cloudinary.com/lhij2e2e/image/upload/v1787942332/WhatsApp_Image_2026-08-23_at_10.49.09_AM_-_SRAZA_BOSE_PROME_1.jpg",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/binit2462/",
-              "facebook": "https://www.facebook.com/profile.php?id=BinitChanda",
-              "linkedin": "https://www.linkedin.com/in/BinitChanda"
+              "instagram": "https://www.instagram.com/prome9825/?hl=en",
+              "facebook": "https://www.facebook.com/profile.php?id=61579426618623",
+              "linkedin": "https://www.linkedin.com/in/sraza-bose-prome-0b63663aa/"
             }
           },
           {
-            "name": "Niladri Saikia",
-            "photo": "https://res.cloudinary.com/dcdxyfnfo/image/upload/v1757530497/20250831_230146_-_NILADRI_SAIKIA_iypljp.webp",
+            "name": "Deepjyoti Sarkar",
+            "photo": "https://res.cloudinary.com/lhij2e2e/image/upload/v1787942237/IMG_20260819_145450_-_DEEPJYOTI_SARKAR.jpg",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/niladri_saikia?igsh=MTZ2NmZxdG9lMjl0YQ==",
-              "facebook": "https://www.facebook.com/share/19FLv54Cmh/",
-              "linkedin": "https://www.linkedin.com/in/niladri-saikia-a3aa56332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
-            "name": "Jyotishmita Borah",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757085588/IMG_20250104_111331_-_JYOTISHMITA_BORAH_b5f374.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/jyotishmitaborah14/",
-              "facebook": "https://www.facebook.com/share/1AtKHgeQyS/",
-              "linkedin": "https://www.linkedin.com/in/jyotishmita-borah-418151326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "instagram": "https://www.instagram.com/deep_06_7?igsi=MXZmencyaXZ4d2YyNg==",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/deepjyoti-sarkar-917520367?utm_source=share_via&utm_content=profile&utm_medium=member_android"
             }
           }
         ]
