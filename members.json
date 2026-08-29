@@ -50,92 +50,11 @@
     "executive": {
       "name": "Executive Wing",
       "members": {
-        "2025-26": [
+        "2026-27": [
            {
-            "name": "Krish Bajoria",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757075014/55b53b07-e000-4680-91b7-4abc133e5c26_-_KRISH_BAJORIA_bey6id.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/krish.bajoria05?igsh=YTU2bzhoamtqdm43",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/krish-bajoria/"
-            }
-          },
-          {
-            "name": "Soumya Ranjan Dash",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757073352/IMG-20250510-WA0179_-_SOUMYA_RANJAN_DASH_cn8yvz.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/_.soumyad_._?igsh=MTk2Y2lqOHN1cmxtcg%3D%3D&utm_source=qr",
-              "facebook": "https://www.facebook.com/share/1BA83M3dmd/?mibextid=wwXIfr",
-              "linkedin": "https://www.linkedin.com/in/soumya-ranjan-dash-12445320b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
-            }
-          },
-          {
-            "name": "Vedant Agarwal",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757075126/PXL_20250710_130004308_-_VEDANT_AGARWAL_hgutun.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/vedant-agarwal-70386327b"
-            }
-          },
-         
-          {
-            "name": "Raman Jain",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757075257/IMG_20250901_142303_-_RAMAN_JAIN_syn2tz.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/jaman.rain/",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/jamanrain"
-            }
-          },
-          {
-            "name": "Kartika Jauhari",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757075422/IMG-20250519-WA0033_-_Computer_Science_Society_lyx9p6.webp",
-            "role": "Head",
-            "social": {
-              "instagram": "https://www.instagram.com/kartika_jauhari/",
-              "facebook": "https://www.facebook.com/share/1CG3m1U62Q/",
-              "linkedin": "https://www.linkedin.com/in/kartika-jauhari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
-            "name": "Suyash Pandey",
-            "photo": "https://res.cloudinary.com/dgechlqls/image/upload/v1757614193/fyn58hdeggb62agqqqqh.jpg",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/suyashpandit__/",
-              "facebook": "https://www.facebook.com/profile.php?id=61572590174838&mibextid=JRoKGi",
-              "linkedin": "https://www.linkedin.com/in/suyash-pandey-49a006328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
-            "name": "Arnab Sutradhar",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078914/IMG20240714105252_-_ARNAB_SUTRADHAR_ilrd5y.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "",
-              "facebook": "",
-              "linkedin": "https://www.linkedin.com/in/arnab-sutradhar-504966307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-            }
-          },
-          {
-            "name": "Asif Hussain",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078163/6c331ba6-5d5d-4c07-af64-bf3d521b17d1_-_ASIF_HUSSAIN_fiecli.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/asiif._f/",
-              "facebook": "https://www.facebook.com/profile.php?id=AsifHussain",
-              "linkedin": "https://www.linkedin.com/in/ASIF_HUSSAIN677"
-            }
-          },
-          {
             "name": "Rishi Karmakar",
             "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078484/IMG-20250831-WA0096_-_RISHI_KARMAKAR_iusmwx.webp",
-            "role": "Junior Member",
+            "role": "Head",
             "social": {
               "instagram": "https://www.instagram.com/rishi__1507?igsh=anFud2hvMTJsaGlv",
               "facebook": "https://www.facebook.com/share/1BCd5XG6Rn/",
@@ -143,19 +62,19 @@
             }
           },
           {
-            "name": "Piyush Aditya Kar",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078683/IMG_20250831_213703_-_PIYUSH_ADITYA_KAR_xu7f8f.webp",
-            "role": "Junior Member",
+            "name": "Asif Hussain",
+            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078163/6c331ba6-5d5d-4c07-af64-bf3d521b17d1_-_ASIF_HUSSAIN_fiecli.webp",
+            "role": "Head",
             "social": {
-              "instagram": "https://www.instagram.com/hilarioussoupxd?igsh=aTU2aXUyYmsxa2lx",
-              "facebook": "https://www.facebook.com/profile.php?id=61566789152771",
-              "linkedin": "https://www.linkedin.com/in/piyush-aditya-kar-20a961233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "instagram": "https://www.instagram.com/asiif._f/",
+              "facebook": "https://www.facebook.com/profile.php?id=AsifHussain",
+              "linkedin": "https://www.linkedin.com/in/ASIF_HUSSAIN677"
             }
           },
           {
             "name": "Anushya Rai",
             "photo": "https://res.cloudinary.com/dhyvzjkvg/image/upload/v1768068373/anushya_nfdnud.webp",
-            "role": "Junior Member",
+            "role": "Head",
             "social": {
               "instagram": "https://www.instagram.com/anushya_rai29?igsh=MWlnM2s5NHZtd3MzOQ==",
               "facebook": "https://www.facebook.com/share/1BXz7k4gNb/",
@@ -163,43 +82,63 @@
             }
           },
           {
-            "name": "Milit Chamaria",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084157/WhatsApp_Image_2025-08-31_at_11.22.06_PM_-_MILIT_CHAMARIA_ogs3hp.webp",
-            "role": "Junior Member",
-            "social": {
-              "instagram": "https://www.instagram.com/milit1306/",
-              "facebook": "https://www.facebook.com/profile.php?id=MilitChamaria",
-              "linkedin": "https://www.linkedin.com/in/militchamaria13/"
-            }
-          },
-          {
             "name": "Bhumisti Das",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757087188/bhumisti_iavwvq.webp",
-            "role": "Junior Member",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787968089/IMG_0004_-_BHUMISTI_DAS.jpg",
+            "role": "Head",
             "social": {
-              "instagram": "https://www.instagram.com/bhumisti06?igsh=MXR2cGFvZnEwZGg3cg%3D%3D&utm_source=qr",
-              "facebook": "https://www.facebook.com/share/1BEGad938k/?mibextid=wwXIfr",
-              "linkedin": "https://www.linkedin.com/in/bhumisti-das-618630327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+              "instagram": "https://www.instagram.com/bhumisti06?igsi=MXR2cGFvZnEwZGg3cg%3D%3D&utm_source=qr",
+              "facebook": "https://www.facebook.com/share/18AzGBeKd4/?mibextid=wwXIfr",
+              "linkedin": "https://www.linkedin.com/in/bhumisti-das-618630327/"
             }
           },
           {
-            "name": "Granth Agarwal",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757078027/IMG-20250830-WA0111_-_GRANTH_AGARWAL_fiojpp.webp",
+            "name": "Sakshi Priya",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787967687/IMG_20260302_144652783_HDR_2_-_SAKSHI_PRIYA.jpg",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/granth_ag?igsh=eHk0Z3l2MGRiYXR4",
-              "facebook": "https://www.facebook.com/share/1ZApSDXT9e/",
-              "linkedin": "https://www.linkedin.com/in/granth-agarwal-057934307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "instagram": "",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/sakshi-priya312"
             }
           },
           {
-            "name": "Thanmai Lahari Motru",
-            "photo": "https://res.cloudinary.com/dfdiplnix/image/upload/v1757084317/IMG-20250831-WA0037_-_THANMAI_LAHARI_MOTRU_n1e0q0.webp",
+            "name": "Prathibha Bhukya",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787967846/IMG-20260823-WA0002_-_BHUKYA_PRATHIBHA-063.jpg",
             "role": "Junior Member",
             "social": {
-              "instagram": "https://www.instagram.com/lahariiiiiiii_?igsh=NWltazI3c2pzN2ww",
-              "facebook": "https://www.facebook.com/profile.php?id=61565239499664",
-              "linkedin": "https://www.linkedin.com/in/thanmai-lahari-motru-727187337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              "instagram": "https://www.instagram.com/prithuuu.___?igsi=NDE2MDZjZGNrOW42",
+              "facebook": "https://www.facebook.com/share/1LZYbja2h9/",
+              "linkedin": "https://www.linkedin.com/in/bhukyaprathibha26"
+            }
+          },
+          {
+            "name": "Bhukya Nithin Nayak",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787968212/PROFILE_PIC_-_BHUKYA_NITHIN_NAYAK.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/bhukya_chintu_38?igsi=bTdsZThweXBrc2Vs",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/nithin-nayak-bhukya-3a7374397"
+            }
+          },
+          {
+            "name": "Yogesh Kumar",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787968275/css_photo_-_YOGESH_KUMAR.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/yogesh-kumar-814a8a369/"
+            }
+          },
+          {
+            "name": "Sabyasachi Bhowmick",
+            "photo": "https://res.cloudinary.com/goznga4i/image/upload/v1787968360/photo_-_SABYASACHI_BHOWMICK.jpg",
+            "role": "Junior Member",
+            "social": {
+              "instagram": "https://www.instagram.com/sabya_sachi690?igsi=MTVtOWl3dnpnMzJkZQ==",
+              "facebook": "",
+              "linkedin": "https://www.linkedin.com/in/sabyasachi-bhowmick-9391a9383/"
             }
           }
         ]
